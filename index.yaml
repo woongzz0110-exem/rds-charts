@@ -2,9 +2,9 @@ apiVersion: v1
 entries:
   saas-agent:
   - apiVersion: v2
-    created: "2022-02-03T01:56:24.150687659Z"
+    created: "2022-02-03T02:54:54.860655665Z"
     description: Saas Agent
-    digest: f2bbe4fbc52d4e76cb8e35b22aea89fa87335dd2776289c172f353a0f0117aa1
+    digest: 3fd280f895991a3ab26e60c37ffefc424dbf230b0fa70b410c52633e60ce8143
     home: http://gitlab.exem.xyz/saas/helm-chart/-/tree/master/saas-agent
     icon: https://ex-em.com/resources/image/common/favicon.png
     keywords:
@@ -20,7 +20,7 @@ entries:
     - charts/saas-agent-0.0.42-TEST.tgz
     version: 0.0.42-TEST
   - apiVersion: v2
-    created: "2022-02-03T01:56:24.150154416Z"
+    created: "2022-02-03T02:54:54.859857877Z"
     description: Saas Agent
     digest: 14c23547f39e2d8ad12e626ac0737201d5c5a36ebbd665155564d2bb3dbdd490
     home: http://gitlab.exem.xyz/saas/helm-chart/-/tree/master/saas-agent
@@ -38,7 +38,7 @@ entries:
     - charts/saas-agent-0.0.41-TEST.tgz
     version: 0.0.41-TEST
   - apiVersion: v2
-    created: "2022-02-03T01:56:24.149638289Z"
+    created: "2022-02-03T02:54:54.85927441Z"
     description: Saas Agent
     digest: eff5b844aaeeb6beb0f030cbf1b7245ce4804e6c52d88363b8ad61bb9ca61495
     home: http://gitlab.exem.xyz/saas/helm-chart/-/tree/master/saas-agent
@@ -56,7 +56,7 @@ entries:
     - charts/saas-agent-0.0.40.tgz
     version: 0.0.40
   - apiVersion: v2
-    created: "2022-02-03T01:56:24.149106859Z"
+    created: "2022-02-03T02:54:54.858599768Z"
     description: Saas Agent
     digest: 1e7fc32f3b3ac5859187002a642f04372d2e3d8feec77f3ff5e49e944192efde
     home: http://gitlab.exem.xyz/saas/helm-chart/-/tree/master/saas-agent
@@ -74,7 +74,7 @@ entries:
     - charts/saas-agent-0.0.40-TEST.tgz
     version: 0.0.40-TEST
   - apiVersion: v2
-    created: "2022-02-03T01:56:24.148565074Z"
+    created: "2022-02-03T02:54:54.857850144Z"
     description: Saas Agent
     digest: b1736a31a2a40451da24ff66df041aad04a6bac83bbf777eb5b4c1ef054d95ce
     home: http://gitlab.exem.xyz/saas/helm-chart/-/tree/master/saas-agent
@@ -92,7 +92,7 @@ entries:
     - charts/saas-agent-0.0.39.tgz
     version: 0.0.39
   - apiVersion: v2
-    created: "2022-02-03T01:56:24.147953354Z"
+    created: "2022-02-03T02:54:54.856748865Z"
     description: Saas Agent
     digest: 350d33034008d82fe4465eea4076615816136b8332f0497629e1db16f1f69f98
     home: http://gitlab.exem.xyz/saas/helm-chart/-/tree/master/saas-agent
@@ -110,7 +110,7 @@ entries:
     - charts/saas-agent-0.0.38.tgz
     version: 0.0.38
   - apiVersion: v2
-    created: "2022-02-03T01:56:24.147132134Z"
+    created: "2022-02-03T02:54:54.854196955Z"
     description: Saas Agent
     digest: 78329bce47b2a834e9fd90208bb057c6905c19bb389b2edccd17924b05e5e4f2
     home: http://gitlab.exem.xyz/saas/helm-chart/-/tree/master/saas-agent
@@ -129,9 +129,9 @@ entries:
     version: 0.0.37
   saas-components:
   - apiVersion: v2
-    created: "2022-02-03T01:56:24.152971341Z"
+    created: "2022-02-03T02:54:54.863282888Z"
     description: Saas Components Including Receiver, Processors, etc
-    digest: ffc583a660a273d3fd0cb1b006e6d8fb628ca791be860d98cd51d79ad2d36dd3
+    digest: 6f31ee89c7d084c771b187eedbcd93ed4c046a8a1fb8cfca4cfb8657da144ae9
     home: http://gitlab.exem.xyz/saas/helm-chart/-/tree/master/saas-agent
     icon: https://ex-em.com/resources/image/common/favicon.png
     keywords:
@@ -146,4 +146,4 @@ entries:
     urls:
     - charts/saas-components-0.0.161.tgz
     version: 0.0.161
-generated: "2022-02-03T01:56:24.144971056Z"
+generated: "2022-02-03T02:54:54.853247632Z"
